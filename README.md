@@ -1,4 +1,4 @@
-# Determining-Format-and-Forecasting-Sales
+## Determining-Format-and-Forecasting-Sales
 Determining the Format for the New Stores and Forecasting Produce Sales 
 
 The project consists of three tasks namely. 1) Determining the Optimal Number of Store Formats, 2) Determining Formats for the New Stores, 3) Predicting Produce Sales
